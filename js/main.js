@@ -24,8 +24,8 @@ const arrayProducts = [
   
     
  
-    { id: 21, name: "ALLENDER", price: 5000, discription: "PATEK PHILLIP", img: ["../images/patek-phillip 1/14 MINUTE REPEATER, TOURBILLON. 6879I.jpg", "../images/patek-phillip 1/14 MINUTE REPEATER, TOURBILLON. 6879I.jpg"] },
-    { id: 22, name: "CALANDER", price: 10000, discription: "PATEK PHILLIP", img: ["../images/patek-phillip 1/2PERPETUAL CALENDAR 5327R.jpg", "../images/patek-phillip 1/2PERPETUAL CALENDAR 5327R.jpg"] },
+    { id: 21, name: "ALLENDER", price: 5000, discription: "PATEK PHILLIP", img: ["./images/patek-phillip 1/14 MINUTE REPEATER, TOURBILLON. 6879I.jpg", "./images/patek-phillip 1/14 MINUTE REPEATER, TOURBILLON. 6879I.jpg"] },
+    { id: 22, name: "CALANDER", price: 10000, discription: "PATEK PHILLIP", img: [".../images/patek-phillip 1/2PERPETUAL CALENDAR 5327R.jpg", ".../images/patek-phillip 1/2PERPETUAL CALENDAR 5327R.jpg"] },
     { id: 23, name: "LADIES FIRST", price: 15000, discription: "PATEK PHILLIP", img: ["../images/patek-phillip 1/3 PERPETUAL CALANDER 5327G.jpg", "../images/patek-phillip 1/3 PERPETUAL CALANDER 5327G.jpg"] },
     { id: 24, name: " LADIESPERPECTUAL", price: 20000, discription: "PATEK PHILLIP", img: ["../images/patek-phillip 1/4 PERPETUAL CALENDAR 5327G.jpg", "../images/patek-phillip 1/4 PERPETUAL CALENDAR 5327G.jpg"] },
     { id: 25, name: "OYSTER", price: 25000, discription: "PATEK PHILLIP", img: ["../images/patek-phillip 1/5 LADIES FIRST PERPETUAL CALENDAR 7140G.jpg", "../images/patek-phillip 1/5 LADIES FIRST PERPETUAL CALENDAR 7140G.jpg"] },
